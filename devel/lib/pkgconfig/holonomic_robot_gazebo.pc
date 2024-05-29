@@ -1,0 +1,8 @@
+prefix=/home/laborobotique/catkin_ws/devel
+
+Name: holonomic_robot_gazebo
+Description: Description of holonomic_robot_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
